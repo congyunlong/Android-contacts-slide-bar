@@ -5,6 +5,12 @@
 # Files for the Dalvik VM
 *.dex
 
+/.idea
+/gradle.properties
+/gradlew
+/gradlew.bat
+/ClySlidebar.iml
+/gradle
 # Java class files
 *.class
 
